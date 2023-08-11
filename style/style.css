@@ -33,13 +33,31 @@
     border-bottom-left-radius: 150px;
 }
 
+.mask {
+    width: 700px;
+}
+
+.chilly {
+    width: 50px;
+}
+
+
 .manu-card {
     width: 20rem;
     height: 23rem;
 }
 
+.menu-list>img {
+    height: 220px;
+    width: 250px;
+}
+
 .packages-item {
     width: 350px;
+}
+
+.chilly {
+    width: 200px;
 }
 
 .round {
