@@ -33,12 +33,30 @@
     border-bottom-left-radius: 150px;
 }
 
-.mask {
-    width: 700px;
-}
 
 .chilly {
     width: 50px;
+
+}
+
+.mask {
+    width: 600px;
+    position: absolute;
+}
+
+.image-section {
+    width: 50%;
+}
+
+
+.pizza {
+    position: relative;
+    left: 60px;
+    bottom: 25px;
+    height: 655px;
+    width: 635px;
+    border-radius: 600px;
+    border: 20px solid white;
 }
 
 
