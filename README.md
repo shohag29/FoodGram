@@ -1,14 +1,14 @@
-# Project Name
+# Foodgram
 
 ## Description
 
-Briefly introduce your project here. Explain what it does, its main features, and its purpose.
+This is a responsive website . HTML, CSS and Bootstrap are used to create it. This is my assignment number 3
 
 # Features
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- Feature 3: Description of feature 3.
+- Feature 1: This is a responsive website
+- Feature 2: HTML, CSS and Bootstrap are used to create it
+- Feature 3: This is my assignment number 3
 
 ## Live Link
 
-A live version of the project is available at: [https://www.example.com](https://www.example.com)
+A live version of the project is available at: https://foodgram-29.netlify.app/
